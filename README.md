@@ -48,7 +48,7 @@ To reproduce any of the assignment scripts or notebook environments locally, exe
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/ShanOrigin/Advance-Data-Science.git
    cd Advance-Data-Science
    ```
 
