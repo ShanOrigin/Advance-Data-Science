@@ -1,16 +1,16 @@
 # 🎓 Advance Data Science (College Coursework)
 
 <!-- Repository Status Badges for styling -->
+
 ![Course](https://img.shields.io/badge/Course-Advanced%20Data%20Science%20Lab-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Code](https://img.shields.io/badge/Code-MCA33PE21-informational?style=for-the-badge)
 ![Assignment](https://img.shields.io/badge/Assignment-01-success?style=for-the-badge)
 
 ---
 
-
-
 ## 📌 Project Overview
-Welcome to my **Advanced Data Science** repository! This project serves as a centralized, structured database hosting all my university assignments, laboratory tasks, and practical coursework applications. 
+
+Welcome to my **Advanced Data Science** repository! This project serves as a centralized, structured database hosting all my university assignments, laboratory tasks, and practical coursework applications.
 
 The goal of this course is to deep-dive into complex statistical modeling, predictive algorithms, machine learning workflows, and enterprise data analytics pipelines.
 
@@ -34,11 +34,14 @@ The assignment code, data distributions, and reports are systematically organize
 
 ## 📅 Syllabus & Deliverables Tracking
 
-| # | Assignment Name | Key Technical Focus | Tech Stack Used | Status |
-|:-:|:---|:---|:---|:---|
-| **01** | Python Programming and Statistical Concepts | Essential python libraries and tools and statistical libraries | `python`, `statistics` | 🟢 Completed |
-| **02** | Python Data Analysis Packages | Numpy , pandas , matplotlib , seaborn , sklearn , scikit | `Numpy` , `pandas` , `matplotlib` , `seaborn` , `sklearn` , `scikit` | 🟢 Completed |
-| **03** | EDA, Data Cleaning & Outlier Treatment and ect | Data processing and exploration , featur engineering , handling missing data , EDA | `Numpy` , `pandas` , `matplotlib` , `seaborn` , `sklearn` , `scikit` | 🟢 Completed |
+|   #    | Assignment Name                                                                                                                                | Key Technical Focus                                                                                                       | Tech Stack Used                                                      | Status       |
+| :----: | :--------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------- | ------------ |
+| **01** | Python Programming and Statistical Concepts                                                                                                    | Essential python libraries and tools and statistical libraries                                                            | `python`, `statistics`                                               | 🟢 Completed |
+| **02** | Python Data Analysis Packages                                                                                                                  | Numpy , pandas , matplotlib , seaborn , sklearn , scikit                                                                  | `Numpy` , `pandas` , `matplotlib` , `seaborn` , `sklearn` , `scikit` | 🟢 Completed |
+| **03** | EDA, Data Cleaning & Outlier Treatment and ect                                                                                                 | Data processing and exploration , featur engineering , handling missing data , EDA                                        | `Numpy` , `pandas` , `matplotlib` , `seaborn` , `sklearn` , `scikit` | 🟢 Completed |
+| **04** | Supervised Learning - Regression and classification Algorithms                                                                                 | ETL , feature engineering , Data preprocessing , Linear Regression , Logistic Regression and Decision Tree and ect        | `Numpy` , `pandas` , `matplotlib` , `seaborn` , `sklearn` , `scikit` | 🟢 Completed |
+| **05** | Implement and Evaluate various Machine Learning Algorithm , Logistic Regression, Decision Tress , Random Forest , SVM( Suppot Vector Machine ) | ETL , feature engineering , Data preprocessing , data splitting , Model training , Model evaluation and visualization ect | `Numpy` , `pandas` , `matplotlib` , `seaborn` , `sklearn` , `scikit` | In Progress  |
+| **06** |                                                                                                                                                |                                                                                                                           |                                                                      | Upcoming     |
 
 ---
 
@@ -47,12 +50,14 @@ The assignment code, data distributions, and reports are systematically organize
 To reproduce any of the assignment scripts or notebook environments locally, execute the following commands in your command-line interface:
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/ShanOrigin/Advance-Data-Science.git
    cd Advance-Data-Science
    ```
 
 2. **Set up a virtual environment (Recommended):**
+
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use: venv\Scripts\activate
@@ -65,6 +70,6 @@ To reproduce any of the assignment scripts or notebook environments locally, exe
 
 ---
 
-
 ## 📝 Disclaimer
-*This repository is created exclusively for submission of academic assignments for college evaluation purposes. External users are welcome to review code structures for instructional guidance, but direct plagiarism is strictly discouraged under university integrity policies.*
+
+_This repository is created exclusively for submission of academic assignments for college evaluation purposes. External users are welcome to review code structures for instructional guidance, but direct plagiarism is strictly discouraged under university integrity policies._
