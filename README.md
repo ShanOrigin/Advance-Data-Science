@@ -41,10 +41,18 @@ The assignment code, data distributions, and reports are systematically organize
 | **03** | EDA, Data Cleaning & Outlier Treatment and ect                                                                                                 | Data processing and exploration , featur engineering , handling missing data , EDA                                        | `Numpy` , `pandas` , `matplotlib` , `seaborn` , `sklearn` , `scikit` | 🟢 Completed |
 | **04** | Supervised Learning - Regression and classification Algorithms                                                                                 | ETL , feature engineering , Data preprocessing , Linear Regression , Logistic Regression and Decision Tree and ect        | `Numpy` , `pandas` , `matplotlib` , `seaborn` , `sklearn` , `scikit` | 🟢 Completed |
 | **05** | Implement and Evaluate various Machine Learning Algorithm , Logistic Regression, Decision Tress , Random Forest , SVM( Suppot Vector Machine ) | ETL , feature engineering , Data preprocessing , data splitting , Model training , Model evaluation and visualization ect | `Numpy` , `pandas` , `matplotlib` , `seaborn` , `sklearn` , `scikit` | 🟢 Completed |
-| **06** |                                                                                                                                                |                                                                                                                           |                                                                      | Upcoming     |
+| **06** | Implement and Evaluate various Machine Learning MOdels , Logistic Regression, Decision Tress , Random Forest , SVM( Suppot Vector Machine )  |  ETL , feature engineering , Data preprocessing , data splitting , Model training , Model evaluation and cross comparision and visualization ect | `Numpy` , `pandas` , `matplotlib` , `seaborn` , `sklearn` , `scikit` | 🟢 Completed |
 
 ---
+---
 
+## 📅 Course Assessments 
+
+|   #    | Assessments Name                                                                                                                                | Key Technical Focus                                                                                                       | Tech Stack Used                                                      | Status       |
+| :----: | :--------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------- | ------------ |
+| **01** | Log Transformation and Scaling   | Collect data set apply LR before and after Log Transforamtion and scaling and compare results | `python`, `statistics` `Numpy` , `pandas` , `matplotlib` , `seaborn` , `sklearn` , `scikit` ,`streamlit` | 🟢 Completed |
+| **02** | Case Study: Data Analysis Using Machine Learning & Streamlit App Deployment | Choose a dataset from a public repository . The dataset should be suitable for a regression, classification, then Implement and Evaluate various Machine Learning MOdels , Logistic Regression, Decision Tress , Random Forest , SVM( Suppot Vector Machine )  | `python`, `statistics` `Numpy` , `pandas` , `matplotlib` , `seaborn` , `sklearn` , `scikit` ,`streamlit` | upcoming |
+---
 ## ⚙️ Setup & Installation Instructions
 
 To reproduce any of the assignment scripts or notebook environments locally, execute the following commands in your command-line interface:
